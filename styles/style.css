@@ -27,3 +27,21 @@ Common shared items
  .banner-details{
     margin-right: 100px;
  }
+
+ .section{
+    display: flex;
+    gap: 100px;
+    padding: 50px;
+    align-items: center;
+    justify-content: space-between;
+ }
+
+ /* my plans section */
+ .my-plan-con{
+    text-align: center;
+    padding: 20px;
+ }
+ .my-plans{
+    display: flex;
+    justify-content: space-around;
+ }
