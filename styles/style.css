@@ -45,3 +45,38 @@ Common shared items
     display: flex;
     justify-content: space-around;
  }
+
+ /* call section */
+ .call{
+   background-image: url("/images/watch.png");
+   background-repeat: no-repeat;
+   margin: 90px 10px 90px 250px;
+   height: 115vh;
+ }
+ .call-title{
+    color: white;
+      padding-left: 40px;
+      padding-top: 50px;
+  
+ }
+ .btn-call{
+   padding: 15px 30px;
+    background-color: white;
+    border: none;
+    color: red;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-right: 135px;
+    margin-top: 15px;
+    margin-left: 40px;
+ }
+
+ /* footer section */
+ .footer{
+   background-color: black;
+   color: white;
+   display: flex;
+   justify-content: space-between;
+   padding: 100px;
+
+ }
